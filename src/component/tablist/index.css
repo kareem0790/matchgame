@@ -1,0 +1,28 @@
+.list-container-li {
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+@media screen and (min-width: 768px) {
+  .list-container-li {
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+}
+
+.thumbnail-image {
+  height: 60px;
+  width: 70px;
+}
+
+@media screen and (min-width: 768px) {
+  .thumbnail-image {
+    height: 120px;
+    width: 120px;
+  }
+}
+.image-button {
+  border: none;
+  cursor: pointer;
+  background-color: transparent;
+}

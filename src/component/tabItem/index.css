@@ -1,0 +1,13 @@
+.button {
+  border: none;
+  font-family: 'Bree serif';
+  color: #7b8794;
+  font-size: 18px;
+  cursor: pointer;
+  outline: none;
+  font-weight: 300;
+  background-color: transparent;
+}
+.active-tab {
+  color: #fec653;
+}
